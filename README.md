@@ -1,6 +1,6 @@
-# urlife-common
+# urlife-open
 
-**urlife-common** is an open-source Python library that implements a unified graph-relational data model for core digital structures: folders, documents, spreadsheets, and project plans.
+**urlife-open** is an open-source Python library that implements a unified graph-relational data model for core digital structures: folders, documents, spreadsheets, and project plans.
 
 These structures—called **functional data structures**—serve essential roles in organizing and executing user tasks. Despite their diverse appearances, they share a common underlying logic: they consist of identifiable entities (files, paragraphs, cells, tasks) connected by typed relationships (containment, sequence, dependency). `urlife-common` expresses this logic in a consistent, extensible, and queryable graph-relational format.
 
